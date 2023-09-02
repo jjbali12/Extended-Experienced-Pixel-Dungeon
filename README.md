@@ -1,7 +1,7 @@
 # Extended Experienced Pixel Dungeon
 Extended Experienced Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. Its based on the [source code of Pixel Dungeon](https://github.com/00-Evan/pixel-dungeon-gradle), by [Watabou](https://www.watabou.ru).
 
-
+EEXPD provides some test tools from some mods (literally) and some changes that will took huge advantage from player, but in exchange you will descend into 100 depths of this dungeon. Many new arenas created as is providing many drops and exps!
 
 
 
